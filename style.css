@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  font-family: "Inconsolata", monospace;
+  margin-left: 5px;
+  padding-left: 0;
+}
+
+#intro {
+  margin: 0;
+  padding: 0;
+}
+
+.bigHead {
+  color: goldenrod;
+  font-size: 2em;
+  margin: 0;
+  padding: 0;
+}
+.heads {
+  color: grey;
+  font-size: 1.5em;
+  margin: 0;
+  padding: 0;
+}
+
+.info {
+  color: #a6e22e;
+}
+
+.eps {
+  color: fuchsia;
+}
