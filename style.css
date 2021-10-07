@@ -11,13 +11,13 @@ body {
 }
 
 .bigHead {
-  color: goldenrod;
+  color: #ff8a25;
   font-size: 2em;
   margin: 0;
   padding: 0;
 }
 .heads {
-  color: grey;
+  color: #a2af9f;
   font-size: 1.5em;
   margin: 0;
   padding: 0;
@@ -27,6 +27,14 @@ body {
   color: fuchsia;
 }
 
+#episodes {
+}
+
 .eps {
   color: #33ff33;
+  width: fit-content;
+}
+
+.eps:hover {
+  background-color: rgb(13, 44, 218);
 }
