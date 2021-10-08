@@ -1,4 +1,9 @@
+let lastclick;
+
 function frameIt(x) {
-  let epframe = document.getElementById("episodeFrame");
-  epframe.src = `episodePages/${x}.html`;
+  if (x != lastclick) {
+    let epframe = document.getElementById("episodeFrame");
+    epframe.src = `episodePages/${x}.html`;
+    lastclick = x;
+  }
 }
