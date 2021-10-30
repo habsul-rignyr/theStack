@@ -1,12 +1,9 @@
 body {
-  background-color: black;
+  background-color: white;
   font-family: "Inconsolata", monospace;
   margin-left: 5px;
   padding-left: 0;
-}
-
-a {
-  color: #33ff33;
+  color: black;
 }
 
 #intro {
@@ -15,29 +12,20 @@ a {
 }
 
 .bigHead {
-  color: #ff8a25;
-  font-size: 2em;
+  font-size: 4em;
   margin: 0;
   padding: 0;
 }
 .heads {
-  color: #a2af9f;
-  font-size: 1.5em;
+  font-size: 2.5em;
   margin: 0;
   padding: 0;
-}
-
-.info,
-ol,
-ul {
-  color: fuchsia;
 }
 
 #episodes {
 }
 
 .eps {
-  color: #33ff33;
   width: fit-content;
 }
 
