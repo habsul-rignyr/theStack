@@ -11,19 +11,21 @@ body {
 }
 
 #mainTitle {
-  margin-bottom: 0px;
+  padding-top: 15px;
 }
 
 .bigHead {
   font-family: "French Canon";
+
   margin-bottom: 0px;
   font-size: 4em;
+  line-height: 1;
 }
 
 #tagline {
   font-family: "French Canon";
   margin-top: 0px;
-  line-height: 0;
+  line-height: 0.5;
   margin-bottom: 8px;
 }
 
