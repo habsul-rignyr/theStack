@@ -1,14 +1,4 @@
 @font-face {
-  font-family: "French Canon";
-  src: url("frenchCanon/FeFCrm2.ttf");
-}
-
-@font-face {
-  font-family: "Cenotaph Titling";
-  src: url("Cenotaph-Titling.otf");
-}
-
-@font-face {
   font-family: "Torrefarfan";
   src: url("TorreFarfan_v2.ttf");
 }
