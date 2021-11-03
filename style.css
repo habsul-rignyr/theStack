@@ -39,6 +39,10 @@ body {
   margin-bottom: 8px;
 }
 
+.subhead {
+  margin-bottom: 0px;
+}
+
 .heads {
   font-size: 3em;
 }
