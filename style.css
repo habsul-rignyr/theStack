@@ -22,6 +22,16 @@ body {
   line-height: 1;
 }
 
+.epHead {
+  font-family: "Torrefarfan";
+  font-size: 4em;
+}
+
+.epMain {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
 #tagline {
   font-family: "Torrefarfan";
   margin-top: 0px;
